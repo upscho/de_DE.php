@@ -1,8 +1,8 @@
 <?php
 /*
- * @version 0.7.1
- * @date 25.02.2011 21:56:06
- * suggestion by Heiko Rabe (www.code-styling.de ), Frank Bueltge (bueltge.de ), Thomas Scholz (toscho.de )
+ * @version 0.7.2
+ * @date 12.04.2011 18:00:00
+ * suggestion by Heiko Rabe (www.code-styling.de ), Frank Bueltge (bueltge.de ), Thomas Scholz (toscho.de ), upscho
  * special german permalink sanitize will be only needed at admin center and xmlrpc calls
  * avoid additional filtering at frontend html generation
  */
